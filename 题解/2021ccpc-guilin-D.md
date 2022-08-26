@@ -1,4 +1,4 @@
-# 2022吉林ccpc D题
+# 2022桂林ccpc D题
 ##  [Assumption is All You Need](https://codeforces.com/gym/103409/problem/D)
 ---
 ##  题意：
